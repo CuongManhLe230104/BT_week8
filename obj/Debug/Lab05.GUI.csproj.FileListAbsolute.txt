@@ -1,0 +1,22 @@
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe.config
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.pdb
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\EntityFramework.dll
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\Lab05.BUS.dll
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\Lab05.DAL.dll
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\Lab05.BUS.pdb
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\Lab05.BUS.dll.config
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\Lab05.DAL.pdb
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\Lab05.DAL.dll.config
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\EntityFramework.xml
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Lab05.GUI.csproj.AssemblyReference.cache
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Form1.resources
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Properties.Resources.resources
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Lab05.GUI.csproj.GenerateResource.cache
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Lab05.GUI.csproj.CoreCompileInputs.cache
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Lab05.GUI.csproj.Up2Date
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.exe
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.pdb
+D:\C# project\LeManhCuong_2280600340\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Form2.resources
